@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+
+.timelist {
+    display: flex;
+}
+
+.timetable {
+    border-style: double;
+}
